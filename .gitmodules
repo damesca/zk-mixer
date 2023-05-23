@@ -1,0 +1,9 @@
+[submodule "deps/circom"]
+	path = deps/circom
+	url = https://github.com/iden3/circom.git
+[submodule "deps/circomlib"]
+	path = deps/circomlib
+	url = https://github.com/iden3/circomlib.git
+[submodule "deps/aes-circom"]
+	path = deps/aes-circom
+	url = https://github.com/damesca/aes-circom.git

@@ -1,0 +1,5 @@
+Circuit sources:
+    ./deps/circomlib/circuits
+    ./deps/aes-circom/circuits
+    ./src/circuits
+

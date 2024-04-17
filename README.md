@@ -1,4 +1,4 @@
-# PrivMix - A decentralized and compliant mixer
+# Zero-Knowledge Bitcoin Mixer with Reversible Unlinkability
 PrivMix is a decentralized and compliant mixer desing that aims at finding a balance between transaction privacy and fraud analysis.
 Specifically, PrivMix enables a designated regulator to re-link the input and output transaction of a private payment.
 In order to enable such a re-linkage tool without exposing anything to the public view or to the mixer, PrivMix relies
